@@ -1,4 +1,6 @@
-*Sushi
-*Pizza
-*Chicken Cutlets
-*Halal Food
+
+*Sushi [fish]
+*Pizza [bread]
+*Chicken Cutlets [poultry]
+*Halal Food [rice]
+
